@@ -1,5 +1,20 @@
 {
-	"Downloads":[{"Version":"0.2.0.3","Release":"2022-11-01 00:00:00","Package":"https://raw.githubusercontent.com/swengkr/EasyRenamer/main/EasyRenamerSetup_0.2.0.3.msi","History":"https://raw.githubusercontent.com/swengkr/EasyRenamer/main/EasyRenamer_0.2.0.3.txt"},
-		     {"Version":"0.1.1.2","Release":"2022-10-24 00:00:00","Package":"https://raw.githubusercontent.com/swengkr/EasyRenamer/main/EasyRenamerSetup_0.1.1.2.msi","History":"https://raw.githubusercontent.com/swengkr/EasyRenamer/main/EasyRenamer_0.1.1.2.txt"},
-	{"Version":"0.1.0.1","Release":"2022-10-23 00:00:00","Package":"https://raw.githubusercontent.com/swengkr/EasyRenamer/main/EasyRenamerSetup_0.1.0.1.msi","History":"https://raw.githubusercontent.com/swengkr/EasyRenamer/main/EasyRenamer_0.1.0.1.txt"}]
+	"Downloads":
+	[
+		{"Version":"0.2.0.3",
+		 "Release":"2022-11-01 00:00:00",
+		 "Checksum":"",
+		 "Package":"https://raw.githubusercontent.com/swengkr/EasyRenamer/main/EasyRenamerSetup_0.2.0.3.msi",
+		 "History":"https://raw.githubusercontent.com/swengkr/EasyRenamer/main/EasyRenamer_0.2.0.3.txt"},
+		{"Version":"0.1.1.2",
+		 "Release":"2022-10-24 00:00:00",
+		 "Checksum":"",
+		 "Package":"https://raw.githubusercontent.com/swengkr/EasyRenamer/main/EasyRenamerSetup_0.1.1.2.msi",
+		 "History":"https://raw.githubusercontent.com/swengkr/EasyRenamer/main/EasyRenamer_0.1.1.2.txt"},
+		{"Version":"0.1.0.1",
+		 "Release":"2022-10-23 00:00:00",
+		 "Checksum":"",
+		 "Package":"https://raw.githubusercontent.com/swengkr/EasyRenamer/main/EasyRenamerSetup_0.1.0.1.msi",
+		 "History":"https://raw.githubusercontent.com/swengkr/EasyRenamer/main/EasyRenamer_0.1.0.1.txt"}
+	]
 }
