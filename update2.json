@@ -1,4 +1,4 @@
 {
-	"Update":[{"Version":"0.1.1.2","Release":"2022-10-24 00:00:00","Package":"https://raw.githubusercontent.com/swengkr/EasyRenamer/main/EasyRenamerSetup_0.1.1.2.msi","History":"https://raw.githubusercontent.com/swengkr/EasyRenamer/main/EasyRenamer_0.1.1.2.txt"},
+	"Versions":[{"Version":"0.1.1.2","Release":"2022-10-24 00:00:00","Package":"https://raw.githubusercontent.com/swengkr/EasyRenamer/main/EasyRenamerSetup_0.1.1.2.msi","History":"https://raw.githubusercontent.com/swengkr/EasyRenamer/main/EasyRenamer_0.1.1.2.txt"},
 	{"Version":"0.1.0.1","Release":"2022-10-23 00:00:00","Package":"https://raw.githubusercontent.com/swengkr/EasyRenamer/main/EasyRenamerSetup_0.1.0.1.msi","History":"https://raw.githubusercontent.com/swengkr/EasyRenamer/main/EasyRenamer_0.1.0.1.txt"}]
 }
