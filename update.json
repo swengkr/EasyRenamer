@@ -3,12 +3,12 @@
 	[
 		{"Version":"0.1.1.2",
 		 "Release":"2022-10-25 00:00:00",
-		 "Checksum":"4zeLi+SYpWjQ6KSPApXxXcIo3i4=",
+		 "Checksum":"07FuAutGKosg01Hgd6GwcrLfs2g=",
 		 "Package":"https://raw.githubusercontent.com/swengkr/EasyRenamer/main/EasyRenamerSetup_0.1.1.2.msi",
 		 "History":"https://raw.githubusercontent.com/swengkr/EasyRenamer/main/EasyRenamer_0.1.1.2.txt"},
 		{"Version":"0.1.0.1",
 		 "Release":"2022-10-23 00:00:00",
-		 "Checksum":"4zeLi+SYpWjQ6KSPApXxXcIo3i4=",
+		 "Checksum":"",
 		 "Package":"https://raw.githubusercontent.com/swengkr/EasyRenamer/main/EasyRenamerSetup_0.1.0.1.msi",
 		 "History":"https://raw.githubusercontent.com/swengkr/EasyRenamer/main/EasyRenamer_0.1.0.1.txt"}
 	]
