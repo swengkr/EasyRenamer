@@ -16,15 +16,15 @@ EasyRenamer makes it easy and simple to rename files.
 > √ Text editor based file name editing   
 > √ Use a simple, easy and powerful editor (Scintilla)   
 > √ Provides basic and detailed attributes of files by type   
-> ● File-specific attribute-based renaming using attribute tags   
-> ● Find/replace/delete tool for text in the editor   
-> ● Various text addition tools in the editor   
-> ● Text conversion and specified character deletion tool in the editor   
-> ● Enter special characters in file names using the special character table   
-> ● Improved usability by auto-capturing clipboard text   
-> ● Provision of folder and file browser   
-> ● Supports automatic update of the latest version   
-> ● Various add-ons to enhance user convenience   
+> √ File-specific attribute-based renaming using attribute tags   
+> √ Find/replace/delete tool for text in the editor   
+> √ Various text addition tools in the editor   
+> √ Text conversion and specified character deletion tool in the editor   
+> √ Enter special characters in file names using the special character table   
+> √ Improved usability by auto-capturing clipboard text   
+> √ Provision of folder and file browser   
+> √ Supports automatic update of the latest version   
+> √ Various add-ons to enhance user convenience   
 
 ---
 [![how-to](https://img.shields.io/badge/how--to-use-blue.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/STEPS.md)
