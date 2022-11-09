@@ -30,8 +30,11 @@ EasyRenamer makes it easy and simple to rename files.
 
 Screenshots
 ===========
-{: .text-center }![Alt text](https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/1.png "1.png")   
-![Alt text](https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/2.png "2.png"){: .text-center }   
+![Alt text](https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/1.png "1.png")   
+<p align="center">
+  <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/1.png">
+</p>
+![Alt text](https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/2.png "2.png")   
 ![Alt text](https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/3.png "3.png")   
 ![Alt text](https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/4.png "4.png")   
 ![Alt text](https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/5.png "5.png")   
