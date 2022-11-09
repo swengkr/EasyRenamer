@@ -35,6 +35,15 @@ Screenshots
   <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/2.png">
   <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/3.png">
   <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/4.png">
+  <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/5.png">
+  <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/6.png">
+  <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/7.png">
+  <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/8.png">
+  <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/9.png">
+  <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/10.png">
+  <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/11.png">
+  <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/12.png">
+  <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/13.png">
 </p>
 
 ---
