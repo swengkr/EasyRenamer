@@ -26,5 +26,7 @@ EasyRenamer makes it easy and simple to rename files.
 > √ Supports automatic update of the latest version.   
 > √ Various add-ons to enhance user convenience.   
 
+**New Version 0.3.1 Released. What's New**
+
 ---
 [![how-to](https://img.shields.io/badge/how--to-use-blue.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/STEPS.md)
