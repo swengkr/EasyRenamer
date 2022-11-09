@@ -28,5 +28,8 @@ EasyRenamer makes it easy and simple to rename files.
 
 **New Version 0.3.1 Released. [What's New](https://raw.githubusercontent.com/swengkr/EasyRenamer/main/update/packages/EasyRenamerSetup_0.3.1.11.zip "Download")**
 
+Screenshots
+===========
+
 ---
 [![how-to](https://img.shields.io/badge/how--to-use-blue.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/STEPS.md)
