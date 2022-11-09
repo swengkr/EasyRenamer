@@ -30,22 +30,12 @@ EasyRenamer makes it easy and simple to rename files.
 
 Screenshots
 ===========
-![Alt text](https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/1.png "1.png")   
 <p align="center">
   <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/1.png">
+  <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/2.png">
+  <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/3.png">
+  <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/4.png">
 </p>
-![Alt text](https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/2.png "2.png")   
-![Alt text](https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/3.png "3.png")   
-![Alt text](https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/4.png "4.png")   
-![Alt text](https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/5.png "5.png")   
-![Alt text](https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/6.png "6.png")   
-![Alt text](https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/7.png "7.png")   
-![Alt text](https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/8.png "8.png")   
-![Alt text](https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/9.png "9.png")   
-![Alt text](https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/10.png "10.png")   
-![Alt text](https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/11.png "11.png")   
-![Alt text](https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/12.png "12.png")   
-![Alt text](https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/13.png "13.png")   
 
 ---
 [![how-to](https://img.shields.io/badge/how--to-use-blue.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/STEPS.md)
