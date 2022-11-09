@@ -1,5 +1,5 @@
 # EasyRenamer Utility Software
-[![kr](https://img.shields.io/badge/%EC%96%B8%EC%96%B4-%ED%95%9C%EA%B5%AD%EC%96%B4-green.svg)](https://github.com/swengkr/EasyRenamer/edit/main/README.kr.md)
+[![kr](https://img.shields.io/badge/%EC%96%B8%EC%96%B4-%ED%95%9C%EA%B5%AD%EC%96%B4-green.svg)](https://github.com/swengkr/EasyRenamer/blob/main/README.kr.md)
 
 Introduction
 ============
