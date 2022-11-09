@@ -13,9 +13,9 @@ EasyRenamer makes it easy and simple to rename files.
 
 **EasyRenamer Key Features**
 
-> ● Text editor based file name editing   
-> ● Use a simple, easy and powerful editor (Scintilla)   
-> ● Provides basic and detailed attributes of files by type   
+> √ Text editor based file name editing   
+> √ Use a simple, easy and powerful editor (Scintilla)   
+> √ Provides basic and detailed attributes of files by type   
 > ● File-specific attribute-based renaming using attribute tags   
 > ● Find/replace/delete tool for text in the editor   
 > ● Various text addition tools in the editor   
