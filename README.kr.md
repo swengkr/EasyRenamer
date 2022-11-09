@@ -1,5 +1,5 @@
 # EasyRenamer 유틸리티 소프트웨어
-[![en](https://img.shields.io/badge/language-english-green.svg)](https://github.com/swengkr/EasyRenamer/edit/main/README.md)
+[![en](https://img.shields.io/badge/language-english-green.svg)](https://github.com/swengkr/EasyRenamer)
 
 소개
 ====
