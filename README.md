@@ -1,7 +1,5 @@
 # EasyRenamer Utility Software
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.pt-br.md)
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.es.md)
+[![kr](https://img.shields.io/badge/%EC%96%B8%EC%96%B4-%ED%95%9C%EA%B5%AD%EC%96%B4-green.svg)](https://github.com/swengkr/EasyRenamer/edit/main/README.kr.md)
 
 Introduction
 ============
@@ -31,20 +29,30 @@ EasyRenamer makes it easy and simple to rename files.
 Screenshots
 ===========
 <p align="center">
-  <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/1.png">
-  <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/2.png">
-  <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/3.png">
-  <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/4.png">
-  <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/5.png">
-  <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/6.png">
-  <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/7.png">
-  <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/8.png">
-  <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/9.png">
-  <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/10.png">
-  <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/11.png">
-  <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/12.png">
-  <img src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/13.png">
+  <img alt="" title="EasyRenamer main screen" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/1.png"><br>
+  EasyRenamer main screen<br><br>
+  <img alt="" title="EasyRenamer special character map" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/2.png"><br>
+  EasyRenamer special character map<br><br>
+  <img alt="" title="EasyRenamer clipboard auto capture" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/3.png"><br>
+  EasyRenamer clipboard auto capture<br><br>
+  <img alt="" title="EasyRenamer text editor" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/4.png"><br>
+  EasyRenamer text editor<br><br>
+  <img alt="" title="Editor File Property Tag List" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/5.png"><br>
+  Editor File Property Tag List<br><br>
+  <img alt="" title="Edit filenames based on file property" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/6.png"><br>
+  Edit filenames based on file property<br><br>
+  <img alt="" title="Editor pop-up menu" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/7.png"><br>
+  Editor pop-up menu<br><br>
+  <img alt="" title="Editor text find/replace/remove tool" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/8.png"><br>
+  Editor text find/replace/remove tool<br><br>
+  <img alt="" title="Various editor text addition tools" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/9.png"><br>
+  Various editor text addition tools<br><br>
+  <img alt="" title="Editor text conversion and removal tool" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/10.png"><br>
+  Editor text conversion and removal tool<br><br>
+  <img alt="" title="File Checksum Calculator" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/11.png"><br>
+  File Checksum Calculator<br><br>
+  <img alt="" title="Support for automatic update to the latest version" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/12.png"><br>
+  Support for automatic update to the latest version<br><br>
+  <img alt="" title="About Program License and Update History" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/13.png"><br>
+  About Program License and Update History<br><br>
 </p>
-
----
-[![how-to](https://img.shields.io/badge/how--to-use-blue.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/STEPS.md)
