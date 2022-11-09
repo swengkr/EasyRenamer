@@ -13,16 +13,27 @@ EasyRenamer makes it easy and simple to rename files.
 EasyRenamer Key Features
 
 ● Text editor-based file name editing
+
 ● Easy, simple, and powerful editor (Scintilla)
+
 ● Provides basic and detailed properties for each file type
+
 ● Property-based name change for each file using property tags
+
 ● Find/replace/remove text in editor tool
+
 ● Various text addition tools within the editor
+
 ● In-editor text conversion and character removal tools
+
 ● Entering special characters in the file name through the special character table
+
 ● Automatic capture of clipboard text for greater ease of use
+
 ● Folder and file browser provided
+
 ● Support for automatic update to the latest version
+
 ● Various additional functions to enhance user convenience
 
 
