@@ -6,13 +6,12 @@
 Introduction
 ============
 
-EasyRenamer: file renaming software for Windows. EasyRenamer: File Renaming Software for Windows. EasyRenamer can be used free of charge by individuals or groups at home, business, office, etc.
+**EasyRenamer**: file renaming software for Windows. EasyRenamer: File Renaming Software for Windows. EasyRenamer can be used free of charge by individuals or groups at home, business, office, etc.
 
 
 EasyRenamer makes it easy and simple to rename files.
 
-EasyRenamer Key Features
-------------------------
+**EasyRenamer Key Features**
 
 > ● Text editor based file name editing   
 > ● Use a simple, easy and powerful editor (Scintilla)   
