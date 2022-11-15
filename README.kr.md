@@ -35,23 +35,25 @@ EasyRenamer는 쉽고 간편하게 파일명을 변경할 수 있습니다.
   <img alt="" title="EasyRenamer clipboard auto capture" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/3.png"><br>
   EasyRenamer 클립보드 자동 캡처<br><br>
   <img alt="" title="EasyRenamer text editor" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/4.png"><br>
+  EasyRenamer 파일 속성 태그 목록<br><br>
+  <img alt="" title="EasyRenamer text editor" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/5.png"><br>
   EasyRenamer 강력한 텍스트 편집기<br><br>
-  <img alt="" title="Editor File Property Tag List" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/5.png"><br>
+  <img alt="" title="Editor File Property Tag List" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/6.png"><br>
   편집기 파일 속성 태그 목록<br><br>
-  <img alt="" title="Edit filenames based on file property" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/6.png"><br>
+  <img alt="" title="Edit filenames based on file property" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/7.png"><br>
   파일 별 속성 기반 파일명 수정<br><br>
-  <img alt="" title="Editor pop-up menu" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/7.png"><br>
+  <img alt="" title="Editor pop-up menu" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/8.png"><br>
   편집기 팝업 메뉴<br><br>
-  <img alt="" title="Editor text find/replace/remove tool" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/8.png"><br>
+  <img alt="" title="Editor text find/replace/remove tool" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/9.png"><br>
   편집기 텍스트 찾기 / 바꾸기 / 제거 도구<br><br>
-  <img alt="" title="Various editor text addition tools" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/9.png"><br>
+  <img alt="" title="Various editor text addition tools" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/10.png"><br>
   다양한 편집기 텍스트 추가 도구<br><br>
-  <img alt="" title="Editor text conversion and removal tool" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/10.png"><br>
+  <img alt="" title="Editor text conversion and removal tool" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/11.png"><br>
   편집기 텍스트 변환 및 제거 도구<br><br>
-  <img alt="" title="File Checksum Calculator" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/11.png"><br>
+  <img alt="" title="File Checksum Calculator" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/12.png"><br>
   파일 체크섬 계산기<br><br>
-  <img alt="" title="Support for automatic update to the latest version" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/12.png"><br>
+  <img alt="" title="Support for automatic update to the latest version" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/13.png"><br>
   최신 버전 자동 업데이트 지원<br><br>
-  <img alt="" title="About Program License and Update History" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/13.png"><br>
+  <img alt="" title="About Program License and Update History" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/14.png"><br>
   프로그램 라이선스 및 업데이트 히스토리<br><br>
 </p>
