@@ -37,22 +37,24 @@ Screenshots
   EasyRenamer clipboard auto capture<br><br>
   <img alt="" title="EasyRenamer text editor" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/4.png"><br>
   EasyRenamer text editor<br><br>
-  <img alt="" title="Editor File Property Tag List" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/5.png"><br>
+  <img alt="" title="Easily enter file attribute tags" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/5.png"><br>
+  Easily enter file attribute tags<br><br>
+  <img alt="" title="Editor File Property Tag List" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/6.png"><br>
   Editor File Property Tag List<br><br>
-  <img alt="" title="Edit filenames based on file property" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/6.png"><br>
+  <img alt="" title="Edit filenames based on file property" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/7.png"><br>
   Edit filenames based on file property<br><br>
-  <img alt="" title="Editor pop-up menu" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/7.png"><br>
+  <img alt="" title="Editor pop-up menu" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/8.png"><br>
   Editor pop-up menu<br><br>
-  <img alt="" title="Editor text find/replace/remove tool" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/8.png"><br>
+  <img alt="" title="Editor text find/replace/remove tool" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/9.png"><br>
   Editor text find/replace/remove tool<br><br>
-  <img alt="" title="Various editor text addition tools" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/9.png"><br>
+  <img alt="" title="Various editor text addition tools" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/10.png"><br>
   Various editor text addition tools<br><br>
-  <img alt="" title="Editor text conversion and removal tool" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/10.png"><br>
+  <img alt="" title="Editor text conversion and removal tool" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/11.png"><br>
   Editor text conversion and removal tool<br><br>
-  <img alt="" title="File Checksum Calculator" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/11.png"><br>
+  <img alt="" title="File Checksum Calculator" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/12.png"><br>
   File Checksum Calculator<br><br>
-  <img alt="" title="Support for automatic update to the latest version" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/12.png"><br>
+  <img alt="" title="Support for automatic update to the latest version" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/13.png"><br>
   Support for automatic update to the latest version<br><br>
-  <img alt="" title="About Program License and Update History" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/13.png"><br>
+  <img alt="" title="About Program License and Update History" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/14.png"><br>
   About Program License and Update History<br><br>
 </p>
