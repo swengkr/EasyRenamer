@@ -35,10 +35,10 @@ Screenshots
   EasyRenamer special character map<br><br>
   <img alt="" title="EasyRenamer clipboard auto capture" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/3.png"><br>
   EasyRenamer clipboard auto capture<br><br>
-  <img alt="" title="EasyRenamer text editor" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/4.png"><br>
-  EasyRenamer text editor<br><br>
-  <img alt="" title="Easily enter file attribute tags" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/5.png"><br>
+  <img alt="" title="Easily enter file attribute tags" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/4.png"><br>
   Easily enter file attribute tags<br><br>
+  <img alt="" title="EasyRenamer text editor" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/5.png"><br>
+  EasyRenamer text editor<br><br>
   <img alt="" title="Editor File Property Tag List" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/6.png"><br>
   Editor File Property Tag List<br><br>
   <img alt="" title="Edit filenames based on file property" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/7.png"><br>
