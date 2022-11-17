@@ -8,7 +8,7 @@
 
 EasyRenamer는 쉽고 간편하게 파일명을 변경할 수 있습니다.
 
-<h3>EasyRenamer 주요 특징<h3>
+<h3>EasyRenamer 주요 특징</h3>
 
 > √ 텍스트 Editor 기반 파일명 편집.<br>
 > √ 쉽고 간편하며, 강력한 Editor 사용.<br>
