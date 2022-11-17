@@ -57,4 +57,6 @@ Screenshots
   Support for automatic update to the latest version<br><br>
   <img alt="" title="About Program License and Update History" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/14.png"><br>
   About Program License and Update History<br><br>
+  <img alt="" title="About Program License and Update History" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/15.png"><br>
+  About Program License and Update History<br><br>
 </p>
