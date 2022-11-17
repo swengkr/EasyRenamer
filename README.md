@@ -35,13 +35,13 @@ Screenshots
   <img alt="" title="EasyRenamer main screen" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/1.png"><br>
   EasyRenamer main screen<br><br>
   <img alt="" title="EasyRenamer special character map" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/2.png"><br>
-  EasyRenamer special character map<br><br>
+  Special character map<br><br>
   <img alt="" title="Clipboard auto capture" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/3.png"><br>
-  EasyRenamer clipboard auto capture<br><br>
+  Clipboard auto capture<br><br>
   <img alt="" title="Easily enter file property tags" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/4.png"><br>
   Easily enter file property tags<br><br>
   <img alt="" title="Powerful text editor" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/5.png"><br>
-  EasyRenamer text editor<br><br>
+  Powerful text editor<br><br>
   <img alt="" title="Editor File Property Tag List" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/6.png"><br>
   Editor File Property Tag List<br><br>
   <img alt="" title="Edit filenames based on file property" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/7.png"><br>
