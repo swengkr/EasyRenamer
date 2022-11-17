@@ -11,21 +11,21 @@ EasyRenamer makes it easy and simple to rename files.
 
 **EasyRenamer Key Features**
 
-> √ Text editor based file name editing.
-> √ Use a simple, easy and powerful editor.
-> √ Provides basic and detailed attributes of files by type.
-> √ File-specific attribute-based renaming using attribute tags.
-> √ Move text position in Editor. (top / up / down / bottom)
-> √ Text sorting in the Editor.
-> √ Find text in Editor (Normal / Range) / Replace / Remove tool.
-> √ Various text addition tools in the Editor. (number / text / extension / folder name / size / date / time)
-> √ Text conversion and specified character deletion tool in the editor.
-> √ Enter special characters in file names using the special character table.
-> √ Improved usability by auto-capturing clipboard text.
-> √ Preview file contents. (video / audio / image / text some format)
-> √ Provision of folder and file browser.
-> √ Supports automatic update of the latest version.
-> √ Various add-ons to enhance user convenience.
+> √ Text editor based file name editing.<br>
+> √ Use a simple, easy and powerful editor.<br>
+> √ Provides basic and detailed attributes of files by type.<br>
+> √ File-specific attribute-based renaming using attribute tags.<br>
+> √ Move text position in Editor. (top / up / down / bottom)<br>
+> √ Text sorting in the Editor.<br>
+> √ Find text in Editor (Normal / Range) / Replace / Remove tool.<br>
+> √ Various text addition tools in the Editor. (number / text / extension / folder name / size / date / time)<br>
+> √ Text conversion and specified character deletion tool in the editor.<br>
+> √ Enter special characters in file names using the special character table.<br>
+> √ Improved usability by auto-capturing clipboard text.<br>
+> √ Preview file contents. (video / audio / image / text some format)<br>
+> √ Provision of folder and file browser.<br>
+> √ Supports automatic update of the latest version.<br>
+> √ Various add-ons to enhance user convenience.<br>
 
 **New Version 0.4.3 Released. [What's New](https://raw.githubusercontent.com/swengkr/EasyRenamer/main/update/packages/EasyRenamerSetup_0.4.3.15.zip "Download")**
 
