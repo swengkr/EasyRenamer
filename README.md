@@ -9,7 +9,7 @@ Introduction
 
 EasyRenamer makes it easy and simple to rename files.
 
-**EasyRenamer Key Features**
+<h3>EasyRenamer Key Features</h3>
 
 > √ Text editor based file name editing.<br>
 > √ Use a simple, easy and powerful editor.<br>
