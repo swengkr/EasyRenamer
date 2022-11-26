@@ -35,43 +35,43 @@ Screenshots
   <img alt="" title="EasyRenamer main screen" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/1.png"><br>
   EasyRenamer main screen<br><br>
   <img alt="" title="" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/2.png"><br>
-  <br><br>
+  <br>
   <img alt="" title="" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/3.png"><br>
-  <br><br>
+  <br>
   <img alt="" title="" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/4.png"><br>
-  <br><br>
+  <br>
   <img alt="" title="" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/5.png"><br>
-  <br><br>
+  <br>
   <img alt="" title="" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/6.png"><br>
-  <br><br>
+  <br>
   <img alt="" title="" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/7.png"><br>
-  <br><br>
+  <br>
   <img alt="" title="" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/8.png"><br>
-  <br><br>
+  <br>
   <img alt="" title="" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/9.png"><br>
-  <br><br>
+  <br>
   <img alt="" title="" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/10.png"><br>
-  <br><br>
+  <br>
   <img alt="" title="" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/11.png"><br>
-  <br><br>
+  <br>
   <img alt="" title="" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/12.png"><br>
-  <br><br>
+  <br>
   <img alt="" title="" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/13.png"><br>
-  <br><br>
+  <br>
   <img alt="" title="" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/14.png"><br>
-  <br><br>
+  <br>
   <img alt="" title="" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/15.png"><br>
-  <br><br>
+  <br>
   <img alt="" title="" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/16.png"><br>
-  <br><br>
+  <br>
   <img alt="" title="" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/17.png"><br>
-  <br><br>
+  <br>
   <img alt="" title="" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/18.png"><br>
-  <br><br>
+  <br>
   <img alt="" title="" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/19.png"><br>
-  <br><br>
+  <br>
   <img alt="" title="" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/20.png"><br>
-  <br><br>
+  <br>
   <img alt="" title="" src="https://raw.githubusercontent.com/swengkr/EasyRenamer/main/images/readme/kr/21.png"><br>
-  <br><br>
+  <br>
 </p>
