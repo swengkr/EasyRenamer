@@ -15,6 +15,7 @@ EasyRenamer makes it easy and simple to rename files.
 > √ Use a simple, easy and powerful editor.<br>
 > √ Provides basic and detailed attributes of files by type.<br>
 > √ File-specific attribute-based renaming using attribute tags.<br>
+> √ Modifying filenames based on Javascript code<br>
 > √ Move text position in Editor. (top / up / down / bottom)<br>
 > √ Text sorting in the Editor.<br>
 > √ Find text in Editor (Normal / Range) / Replace / Remove tool.<br>
