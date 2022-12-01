@@ -27,7 +27,7 @@ EasyRenamer는 쉽고 간편하게 파일명을 변경할 수 있습니다.
 > √ 최신 버전 자동 업데이트 지원.<br>
 > √ 사용자 편의성을 높이는 다양한 부가 기능.<br>
 
-**0.6.0 새 버전 출시. [다운로드](https://raw.githubusercontent.com/swengkr/EasyRenamer/main/update/packages/EasyRenamerSetup_0.6.0.19.zip "Download")**
+**0.6.1 새 버전 출시. [다운로드](https://raw.githubusercontent.com/swengkr/EasyRenamer/main/update/packages/EasyRenamerSetup_0.6.1.20.zip "Download")**
 
 스크린샷
 ========
