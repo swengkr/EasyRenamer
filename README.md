@@ -28,7 +28,7 @@ EasyRenamer makes it easy and simple to rename files.
 > √ Supports automatic update of the latest version.<br>
 > √ Various add-ons to enhance user convenience.<br>
 
-**New Version 0.6.2 Released. [What's New](https://file2.me/d/2mi249 "Download")**
+**New Version 0.6.3 Released. [What's New](https://file2.me/d/2mjc21 "Download")**
 
 Screenshots
 ===========
