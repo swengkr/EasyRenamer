@@ -7,6 +7,11 @@
 	],
 	"Downloads":
 	[
+		{"Version":"0.6.3.22",
+		 "Release":"2022-12-07 03:25:00",
+		 "Checksum":"xR7n2FKe/AeWstE7NxIY0OPxWQw=",
+		 "Package":"https://raw.githubusercontent.com/swengkr/EasyRenamer/main/update/packages/EasyRenamerSetup_0.6.3.22.exe",
+		 "History":"https://raw.githubusercontent.com/swengkr/EasyRenamer/main/update/history/EasyRenamer_0.6.3.22.txt"},
 		{"Version":"0.6.2.21",
 		 "Release":"2022-12-05 11:45:00",
 		 "Checksum":"h0xzAaBUOczcS3uc4nj79qrM3eE=",
