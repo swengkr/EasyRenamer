@@ -29,7 +29,7 @@ EasyRenamer makes it easy and simple to rename files.
 > √ Add file editor selected in explorer with global shortcut.<br>
 > √ Various add-ons to enhance user convenience.<br>
 
-**New Version 0.6.3 Released. [What's New](https://file2.me/d/2mjc21 "Download")**
+**New Version 0.6.4 Released. [What's New](https://file2.me/d/2mkmae "Download")**
 
 Screenshots
 ===========
