@@ -3,6 +3,11 @@
 	"Notices":"1552c330-9ea6-4166-a167-8bd1ddcf9f86",
 	"Downloads":
 	[
+		{"Version":"0.7.1.26",
+		 "Release":"2022-12-17 11:15:00",
+		 "Checksum":"s/kV/YeLdbcVzkyKIjNGdgFwcSI=",
+		 "Package":"https://raw.githubusercontent.com/swengkr/EasyRenamer/main/update/packages/EasyRenamerSetup_0.7.1.26.exe",
+		 "History":"https://raw.githubusercontent.com/swengkr/EasyRenamer/main/update/history/EasyRenamer_0.7.1.26.txt"},
 		{"Version":"0.7.0.25",
 		 "Release":"2022-12-15 14:00:00",
 		 "Checksum":"n8Md+nS2v+cg/R+SZpb3jIgB1YQ=",
